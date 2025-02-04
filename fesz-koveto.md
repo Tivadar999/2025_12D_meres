@@ -1,7 +1,7 @@
 # Jegyzőkönyv - Feszültség követő TL071-es Pinouttal, DAQK Oszcilloszkóppal és Funkció Generátorral
 
 **Dátum**: 2025. február 4.  
-**Készítette**: [Név]
+**Készítette**: [Balogh Tivadar]
 
 ---
 
@@ -13,7 +13,7 @@ A TL071-es feszültség követő működésének vizsgálata és az eredmények 
 ## Használt eszközök:
 
 - **TL071**: JFET bemeneti műveleti erősítő
-- **DAQK Oszcilloszkóp**: Mérési és jel analízis
+- **DAQ Oszcilloszkóp**: Mérési és jel analízis
 - **Funkció Generátor**: Szinusz, négyszög, háromszög és impulzusjelek generálása
 - **Áramkör**: Feszültség követő (Buffer) áramkör
 
@@ -65,8 +65,9 @@ A TL071 feszültség követőként történő alkalmazása sikeres volt, az eszk
 
 ## Munkafolyamat képei:
 
-- ![Oszcilloszkóp kép](link_a_kepekhez)  
-- ![Áramkör elrendezése](link_a_kepekhez)
+- ![Függvénygenerátor kép](https://github.com/user-attachments/assets/4806917d-2804-411b-a4da-73bd14d35d13)
+- ![Osszcilloszkóp kép](https://github.com/user-attachments/assets/d1a8e603-40f1-4ede-8828-0d8c4ff5477d)
+
 
 ---
 
