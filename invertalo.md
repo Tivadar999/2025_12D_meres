@@ -1,6 +1,6 @@
 # Feszültség követő kapcsolás
 
-- A mérést végezte: Kaulics Balázs
+- A mérést végezte: Balogh Tivadar
 - A mérés helye: V3 labor
 - A mérés időpontja: 2025.02.11
 
